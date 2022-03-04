@@ -786,8 +786,8 @@ bottom: 2%;
 .line_btn86 {
     position: absolute;
     top: 2%;
-    left: 9%;
-    width: 83%;
+    left: 10%;
+    width: 100%;
 }
 .line_btn87 {
     position: absolute;
@@ -839,6 +839,84 @@ bottom: 2%;
     bottom: 19%;
     left: 7%;
     width: 85%;
+}
+.line_btn100 {
+    position: absolute;
+    top: -8%;
+    right: 9%;
+    width: 32%;
+    z-index: 999;
+}
+
+.btn-201 {
+    position: absolute;
+    top: -8%;
+    right: 9%;
+    width: 32%;
+    z-index: 999;
+}
+.btn-202 {
+    position: absolute;
+    top: -8%;
+    right: 9%;
+    width: 32%;
+    z-index: 999;
+}
+.btn-203 {
+    position: absolute;
+    top: -8%;
+    right: 9%;
+    width: 32%;
+    z-index: 999;
+}
+.btn-204 {
+    position: absolute;
+    top: -8%;
+    right: 9%;
+    width: 32%;
+    z-index: 999;
+}
+.btn-205 {
+    position: absolute;
+    top: -8%;
+    right: 9%;
+    width: 32%;
+    z-index: 999;
+}
+.btn-206 {
+    position: absolute;
+    top: -8%;
+    right: 9%;
+    width: 32%;
+    z-index: 999;
+}
+.btn-207 {
+    position: absolute;
+    top: -8%;
+    right: 9%;
+    width: 32%;
+    z-index: 999;
+}
+.btn-208 {
+    position: absolute;
+    top: -8%;
+    right: 9%;
+    width: 32%;
+    z-index: 999;
+}
+.btn-209 {
+    position: absolute;
+    top: -8%;
+    right: 9%;
+    width: 32%;
+    z-index: 999;
+}
+.btn-210 {
+    position: absolute;
+    top: -8%;
+    right: 9%;
+    width: 32%;
+    z-index: 999;
 }
 
 
@@ -1453,15 +1531,13 @@ animation-name: fadeInRight;
 }
 
 .nav-link {
-    padding: 0.5rem 0.7rem !important;
+    padding: 0.2rem 0.2rem !important;
 }
 
-.nav {
-    flex-wrap: inherit !important;
-}
 
 .nav-pills .nav-link.active {
-    background-color: #fff !important;
+    background-color: rgba(13, 110, 252, 0) !important;
+    border: 3px solid #000 !important;
 }
 .carousel-inner .carousel-item.active,
 .carousel-inner .carousel-item-next,
@@ -1585,5 +1661,91 @@ animation-name: fadeInRight;
   50% {
     transform: rotate(-400deg);
   }
+}
+
+.col-2_5_1 {
+    position: absolute;
+    min-height: 1px;
+    padding-left: 5px;
+    padding-right: 5px;
+    left: 0%;
+    width:16%; 
+}
+.col-2_5_2 {
+    position: absolute;
+    min-height: 1px;
+    padding-left: 5px;
+    padding-right: 5px;
+    left: 16%;
+    width:16%; 
+}
+.col-2_5_3 {
+    position: absolute;
+    min-height: 1px;
+    padding-left: 5px;
+    padding-right: 5px;
+    left: 32%;
+    width:16%; 
+}
+.col-2_5_4 {
+    position: absolute;
+    min-height: 1px;
+    padding-left: 5px;
+    padding-right: 5px;
+    left: 48%;
+    width:16%; 
+}
+.col-2_5_5 {
+    position: absolute;
+    min-height: 1px;
+    padding-left: 5px;
+    padding-right: 5px;
+    left: 64%;
+    width:16%; 
+}
+.col-2_5_6 {
+    position: absolute;
+    min-height: 1px;
+    padding-left: 5px;
+    padding-right: 5px;
+    left: 0%;
+    width:16%; 
+    margin-top: 10%;
+}
+.col-2_5_7 {
+    position: absolute;
+    min-height: 1px;
+    padding-left: 5px;
+    padding-right: 5px;
+    left: 16%;
+    width:16%; 
+    margin-top: 10%;
+}
+.col-2_5_8 {
+    position: absolute;
+    min-height: 1px;
+    padding-left: 5px;
+    padding-right: 5px;
+    left: 32%;
+    width:16%; 
+    margin-top: 10%;
+}
+.col-2_5_9 {
+    position: absolute;
+    min-height: 1px;
+    padding-left: 5px;
+    padding-right: 5px;
+    left: 48%;
+    width:16%; 
+    margin-top: 10%;
+}
+.col-2_5_10 {
+    position: absolute;
+    min-height: 1px;
+    padding-left: 5px;
+    padding-right: 5px;
+    left: 64%;
+    width:16%; 
+    margin-top: 10%;
 }
 
