@@ -1255,7 +1255,11 @@ animation-name: fadeInRight;
     padding-left: 16%;
 }
 
-
+.bg_000 {
+    background-position: center;
+    background-size: cover;
+    background-color: #ffffff;
+}
 .bg_001 {
     background-image: url('./img/LP-01.png');
     background-position: center;
@@ -1398,6 +1402,11 @@ animation-name: fadeInRight;
 }
 
 .bg_034 {
+    background-position: center;
+    background-size: cover;
+}
+
+.bg_035 {
     background-position: center;
     background-size: cover;
 }
