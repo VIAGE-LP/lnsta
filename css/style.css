@@ -173,6 +173,34 @@ bottom: 2%;
 
     }
 
+/*movie start*/
+
+.movie {
+    position: absolute;
+    top: 25%;
+    right: 8%;
+    width: 93%;
+}
+
+.video-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    top: 5%;
+    left: 5%;
+    overflow: hidden;
+}
+
+.video-container iframe,
+.video-container object,
+.video-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
 .bn-top {
     width: 100%;
 
@@ -231,33 +259,33 @@ bottom: 2%;
 
 .line_btn01 {
     position: absolute;
-    bottom: 8%;
-    padding-left: 7%;
-   
+    top: 35%;
+    left: 1%;
+    width: 36%;
 }
 .line_btn02 {
     position: absolute;
-    margin-top: -15%;
-    margin-left: 2.5%;
-    width: 23%;
+    top: 19%;
+    left: 54%;
+    width: 36%;
 }
 .line_btn03 {
     position: absolute;
-    top: -48px;
-    margin-left: 0%;
-    width: 100%;
+    top: 25%;
+    left: 17%;
+    width: 65%;
 }
 .line_btn04 {
     position: absolute;
-    top: 52%;
-    /* margin-left: 47.5%; */
-    width: 100%;
+    top: 50%;
+    left: -1%;
+    width: 36%;
 }
 .line_btn05 {
     position: absolute;
-    bottom: -6%;
-    margin-left: 8%;
-    width: 88%;
+    top: 34%;
+    left: 68%;
+    width: 36%;
 }
 .line_btn06 {
     position: absolute;
@@ -273,8 +301,8 @@ bottom: 2%;
 }
 .line_btn08 {
     position: absolute;
-    top: 0%;
-    margin-left: 6%;
+    top: -4%;
+    margin-left: 10%;
     width: 84%;
 }
 .line_btn08_1 {
@@ -438,25 +466,25 @@ bottom: 2%;
 
 .line_btn32 {
     position: absolute;
-    bottom: 7%;
-    left: 17%;
-    width: 64%;
+    bottom: 4%;
+    left: 5%;
+    width: 48%;
 }
 
 .line_btn33 {
     position: absolute;
-    top: 8.5%;
-    left: 7.5%;
+    top: 7%;
+    left: 9%;
     width: 85%;
 }
 .line_btn34 {
     position: absolute;
-    top: 4.8%;
+    top: 3.8%;
     left: 0%;
 }
 .line_btn35 {
     position: absolute;
-    bottom: 32.8%;
+    bottom: 46.8%;
     left: 11%;
     width: 79%;
 }
@@ -468,68 +496,48 @@ bottom: 2%;
 }
 .line_btn37 {
     position: absolute;
-    top: 17%;
-    left: 0%;
-    width: 100%;
+    top: 14%;
+    left: 0.5%;
+    width: 103%;
 }
 .line_btn38 {
     position: absolute;
-    top: -10%;
+    top: -8%;
     left: 1%;
     width: 98%;
 }
 .line_btn39 {
     position: absolute;
-    top: 19%;
-    left: 0%;
-    width: 100%;
+    top: 73%;
+    left: 1%;
+    width: 98%;
 }
 .line_btn40 {
     position: absolute;
-    top: 45%;
-    left: 0%;
-    width: 54%;
+    top: 33%;
+    left: 8%;
+    width: 86%;
 }
 .line_btn41 {
-    position: absolute;
-    top: 45%;
-    left: 0%;
-    width: 54%;
+
 }
-.line_btn40 {
-    position: absolute;
-    top: 45%;
-    left: 0%;
-    width: 54%;
-}
-.line_btn41 {
-    position: absolute;
-    top: 45%;
-    left: 48%;
-    width: 54%;
-}
+
 .line_btn42 {
-    position: absolute;
-    top: 69%;
-    left: 0%;
-    width: 54%;
+
 }
 .line_btn43 {
-    position: absolute;
-    top: 69%;
-    left: 48%;
-    width: 54%;
+
 }
 
 .line_btn44 {
     position: absolute;
-    bottom: 1%;
-    left: 22%;
-    width: 59%;
+    bottom: 44%;
+    left: 9%;
+    width: 84%;
 }
 .line_btn45 {
     position: absolute;
-    top: 2%;
+    top: 46%;
     left: 0%;
     width: 100%;
 }
@@ -548,93 +556,70 @@ bottom: 2%;
 }
 .line_btn48 {
     position: absolute;
-    top: 14%;
-    left: 0%;
-    width: 100%;
+    top: 1.5%;
+    left: 5%;
+    width: 105%;
     z-index: 9;
 }
 .line_btn49 {
     position: absolute;
-    top: 38%;
-    left: 55%;
-    width: 42%;
+    top: 16%;
+    left: -5%;
+    width: 105%;
     z-index: 9;
 }
 .line_btn50 {
     position: absolute;
-    bottom: 2.5%;
-    right: 0%;
-    width: 100%;
+    top: 35.5%;
+    left: 3%;
+    width: 105%;
+    z-index: 9;
 }
 .line_btn51 {
     position: absolute;
-    bottom: 36%;
-    left: 4%;
-    width: 28%;
+    top: 51.5%;
+    left: -5%;
+    width: 105%;
+    z-index: 9;
 }
-
-
 .line_btn52 {
     position: absolute;
-    top: 7%;
-    left: 0%;
-    width: 100%;
+    top: 69%;
+    left: 4%;
+    width: 105%;
+    z-index: 9;
 }
 .line_btn53 {
     position: absolute;
-    top: 29%;
-    left: 50%;
-    width: 41%;
+    top: 82%;
+    left: -5%;
+    width: 105%;
+    z-index: 9;
 }
 .line_btn54 {
-    position: absolute;
-    bottom: 1.5%;
-    right: 0%;
-    width: 100%;
+
 }
 .line_btn55 {
-    position: absolute;
-    bottom: 37.5%;
-    left: 50%;
-    width: 41%;
-}
 
+}
 
 .line_btn56 {
-    position: absolute;
-    top: -1.5%;
-    left: 0%;
-    width: 100%;
+
 }
 .line_btn57 {
-    position: absolute;
-    top: 27%;
-    left: 2%;
-    width: 49%;
+
 }
 .line_btn58 {
-    position: absolute;
-    top: 2.5%;
-    right: 0%;
-    width: 100%;
+
 }
 .line_btn59 {
-    position: absolute;
-    bottom: 12.5%;
-    left: 48%;
-    width: 50%;
+
 }
 .line_btn60 {
-    position: absolute;
-    top: 0%;
-    left: 0%;
-    width: 100%;
+
 }
 .line_btn61 {
-    position: absolute;
-    top: 21%;
-    left: 2.5%;
-    width: 26%;
+
 }
 .line_btn62 {
     position: absolute;
@@ -662,21 +647,13 @@ bottom: 2%;
     width: 95%;
 }
 .line_btn66 {
-    position: absolute;
-    bottom: 0%;
+
 }
 .line_btn67 {
-    position: absolute;
-    top: 6%;
-    right: 0%;
-    width: 95%;
+
 
 }
 .line_btn68 {
-    position: absolute;
-    bottom: 1%;
-    left: 0%;
-    width: 100%;
 
 }
 .line_btn69 {
@@ -773,9 +750,10 @@ bottom: 2%;
 }
 .line_btn84 {
     position: absolute;
-    top: 56%;
-    right: 57%;
-    width: 41%;
+    top: 66%;
+    right: 4%;
+    width: 60%;
+    z-index: 999;
 }
 .line_btn85 {
     position: absolute;
@@ -810,9 +788,9 @@ bottom: 2%;
 }
 .line_btn90 {
     position: absolute;
-    bottom: 5.5%;
-    left: 8%;
-    width: 84.5%;
+    bottom: 9%;
+    left: 7%;
+    width: 82%;
 }
 .line_btn91 {
     position: absolute;
@@ -835,11 +813,9 @@ bottom: 2%;
 }
 
 .line_btn94 {
-    position: absolute;
-    bottom: 19%;
-    left: 7%;
-    width: 85%;
+
 }
+
 .line_btn100 {
     position: absolute;
     top: -8%;
@@ -849,34 +825,12 @@ bottom: 2%;
 }
 .line_btn101 {
     position: absolute;
-    bottom: 56.5%;
-    left: 8%;
-    width: 84.5%;
+    top: 63%;
+    right: 57%;
+    width: 40%;
+    z-index: 999;
 }
-.line_btn102 {
-    position: absolute;
-    bottom: 58.5%;
-    left: 8%;
-    width: 84.5%;
-}
-.line_btn103 {
-    position: absolute;
-    bottom: 26.5%;
-    left: 8%;
-    width: 84.5%;
-}
-.line_btn104 {
-    position: absolute;
-    bottom: 5.5%;
-    left: 8%;
-    width: 44.5%;
-}
-.line_btn105 {
-    position: absolute;
-    bottom: 7.5%;
-    left: 55%;
-    width: 36.5%;
-}
+
 .btn-201 {
     position: absolute;
     top: -8%;
@@ -1000,8 +954,8 @@ bottom: 2%;
 }
 .video {
     position: absolute;
-    top: 0;
-    left: 0;
+    top: 25%;
+    left: 14%;
     width: 100%;
     height: 100%;
 }
