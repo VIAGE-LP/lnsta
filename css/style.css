@@ -276,9 +276,9 @@ img {
 
 .line_btn03 {
     position: absolute;
-    top: 25%;
-    left: 17%;
-    width: 65%;
+    top: 32%;
+    left: 10%;
+    width: 86%;
 }
 
 .line_btn04 {
@@ -333,7 +333,7 @@ img {
 
 .line_btn09_1 {
     position: absolute;
-    bottom: 7%;
+    bottom: 4%;
     margin-left: 18.5%;
     width: 64%;
 }
@@ -427,9 +427,9 @@ img {
 
 .line_btn22 {
     position: absolute;
-    bottom: 33%;
+    bottom: 5%;
     left: 6%;
-    width: 41%;
+    width: 50%;
 }
 
 .line_btn23 {
@@ -469,37 +469,37 @@ img {
 
 .line_btn28 {
     position: absolute;
-    bottom: 43%;
-    left: 0%;
+    bottom: 50%;
+    left: -2%;
     width: 92%;
 }
 
 .line_btn29 {
     position: absolute;
-    bottom: 29%;
-    right: 0%;
+    bottom: 37%;
+    right: -4%;
     width: 92%;
 }
 
 .line_btn30 {
     position: absolute;
-    bottom: 15%;
-    right: 0%;
+    bottom: 24.5%;
+    right: -3%;
     width: 92%;
 }
 
 .line_btn31 {
     position: absolute;
-    bottom: 1%;
-    right: 0%;
+    bottom: 12%;
+    right: -3%;
     width: 92%;
 }
 
 .line_btn32 {
     position: absolute;
-    bottom: 4%;
-    left: 5%;
-    width: 48%;
+    bottom: 3%;
+    left: 4%;
+    width: 73%;
 }
 
 .line_btn33 {
@@ -640,17 +640,48 @@ img {
     z-index: 9;
 }
 
-.line_btn54 {}
+.line_btn54 {
+        position: absolute;
+    bottom: 1%;
+    left: 9%;
+    width: 88%;
+}
 
-.line_btn55 {}
+.line_btn55 {
+    position: absolute;
+    bottom: 0%;
+    left: 0.1%;
+    width: 50%;
+}
 
-.line_btn56 {}
 
-.line_btn57 {}
+.line_btn56 {
+    position: absolute;
+    bottom: 0%;
+    right: 0%;
+    width: 50%;
+}
 
-.line_btn58 {}
+.line_btn57 {
+    position: absolute;
+    bottom: 16%;
+    left: 2%;
+    width: 37%;
+}
 
-.line_btn59 {}
+.line_btn58 {
+        position: absolute;
+    bottom: 19%;
+    left: 12.1%;
+    width: 83%;
+}
+
+.line_btn59 {
+    position: absolute;
+    bottom: 19%;
+    left: 5.1%;
+    width: 83%;
+}
 
 .line_btn60 {}
 
@@ -721,21 +752,21 @@ img {
     position: absolute;
     top: 0%;
     left: 0%;
-    width: 100%;
+    width: 104%;
 }
 
 .line_btn74 {
     position: absolute;
-    bottom: 45%;
-    right: 6%;
-    width: 57%;
+    bottom: 44%;
+    right: 8%;
+    width: 51%;
 }
 
 .line_btn75 {
     position: absolute;
-    bottom: 14%;
-    right: 9%;
-    width: 83%;
+    bottom: 8%;
+    right: 8.5%;
+    width: 82%;
 }
 
 .line_btn76 {
@@ -804,7 +835,7 @@ img {
 
 .line_btn85 {
     position: absolute;
-    top: 0%;
+    bottom: 0%;
     right: 5%;
     width: 90%;
 }
@@ -840,8 +871,8 @@ img {
 .line_btn90 {
     position: absolute;
     bottom: 9%;
-    left: 7%;
-    width: 82%;
+    left: 9%;
+    width: 88%;
 }
 
 .line_btn91 {
@@ -883,12 +914,18 @@ img {
     z-index: 999;
 }
 
-.btn-201 {
+.line_btn102 {
     position: absolute;
-    top: -8%;
-    right: 9%;
-    width: 32%;
+    top: 90%;
+    right: -4%;
+    width: 93%;
     z-index: 999;
+}
+
+.btn-201 {
+    bottom: 1%;
+    right: 0%;
+    width: 92%;
 }
 
 .btn-202 {
@@ -962,6 +999,15 @@ img {
     width: 32%;
     z-index: 999;
 }
+
+.btn-211 {
+    position: absolute;
+    top: 20%;
+    right: -6%;
+    width: 49%;
+    z-index: 999;
+}
+
 
 .uptodown-play {
     -webkit-animation: uptodown-play 3s infinite alternate;
